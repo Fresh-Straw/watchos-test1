@@ -1,0 +1,4 @@
+language: swift
+xcode_project: WatchOs-Test1.xcodeproj # path to your xcodeproj folder
+xcode_scheme: WatchOs-Test1 WatchKit App
+xcode_destination: platform=watchOS Simulator,OS=6.0,name=Apple Watch 5
